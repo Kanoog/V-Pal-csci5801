@@ -1,0 +1,8 @@
+.vscode/
+unittest
+main
+*.txt
+html/
+latex/
+a.out
+.vs
