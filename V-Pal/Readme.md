@@ -1,26 +1,3 @@
-# V-Pal: Voting Software
-
-## THIS VOTING SOFTWARE PROJECT WAS CREATED FOR CSCI 5801 
-
-### Team Members: Joel Alfveby, Bat-Ider Ganbold, Kanoog Moua, Ramanish Singh
-
-Description: 
-
-    V-Pal is a voting software that processes election results for Instant Runoff Voting, Open Party List Voting, and Popularity Voting systems. 
-    
-    Ballots are processed in the form of CSV files (format of ballot files are detailed in the SRS document). V-Pal processes the ballots and creates a Media/Summary file for the public and an Audit file for the election officials. Furthermore, a summary of the results will be printed on the screen of who the winner is and their stats (party affiliation and number of votes received).
-
-    A Software Requirements Specification (SRS) and Software Design Document (SDD) are inlcuded that follows IEEE standard documentation and 
-    can be referred to.
-
-
-
-Tools/Techniques:
-
-    - Waterfall methodology and Agile Scrum ceremonies were utilized at different points in this project. 
-    - C/C++ Programming
-    - Google C++ Testing
-
 # Setup
 
 ### Step 1: Downloading the Software
