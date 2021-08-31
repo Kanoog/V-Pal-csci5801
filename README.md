@@ -1,6 +1,6 @@
 # V-Pal
 
-## THIS VOTING SOFTWARE PROJECT WAS CREATED FOR CSCI 5801 
+## THIS SOFTWARE PROJECT WAS CREATED FOR CSCI 5801 
 
 ### Team Members: Joel Alfveby, Bat-Ider Ganbold, Kanoog Moua, Ramanish Singh
 
