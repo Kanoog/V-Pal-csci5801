@@ -1,4 +1,4 @@
-# V-Pal: Voting Software
+# V-Pal
 
 ## THIS VOTING SOFTWARE PROJECT WAS CREATED FOR CSCI 5801 
 
